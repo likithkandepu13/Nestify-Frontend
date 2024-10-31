@@ -1,6 +1,4 @@
-Here’s a comprehensive `README.md` file for your homestay recommendation platform, ready to be uploaded to GitHub:
 
----
 
 # Homestay Recommendation Platform
 
